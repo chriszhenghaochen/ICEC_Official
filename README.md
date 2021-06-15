@@ -1,5 +1,5 @@
 # ICEC_Official
-Learning-based lossless compression for Volumtric Image
+Learning-based Lossless Compression for 3D Volumtric Image
 
 
 Codes will be released soon ...
