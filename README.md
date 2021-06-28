@@ -1,5 +1,5 @@
 # ICEC_Official
-Learning-based Lossless Compression for 3D Volumtric Image
+## A New Learning-based Lossless Volumetric Image Compression Framework by Exploiting Intra-slice and Inter-slice Redundancy
 
 
 Codes will be released soon ...
