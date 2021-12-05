@@ -1,5 +1,4 @@
 # ICEC_Official
-## A New Learning-based Lossless Volumetric Image Compression Framework by Exploiting Intra-slice and Inter-slice Redundancy
+## Exploiting Intra-slice and Inter-slice Redundancy for Learning-based Lossless Volumetric Image Compression
 
-
-Codes will be released soon ...
+We are current cleaning the codes and plan to release as soon as possible
